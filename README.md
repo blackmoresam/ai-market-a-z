@@ -35,3 +35,5 @@ Product information may change, so check official websites before making decisio
 ## Updates
 
 I'll update the directory as I discover new tools and meaningful changes to existing ones.
+
+![GitHub Downloads](https://img.shields.io/github/downloads/blackmoresam/ai-market-a-z/latest/total?label=Downloads&color=blue)
